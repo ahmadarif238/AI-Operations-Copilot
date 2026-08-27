@@ -1,0 +1,9 @@
+TITLE: SAFE_005_Workplace_Safety
+DEPT: Admin
+CATEGORY: Safety
+
+
+    In case of fire, use the nearest exit. Do not use elevators.
+    Assembly point: Parking Lot B.
+    Safety Officer: John Doe (ext 5555).
+    

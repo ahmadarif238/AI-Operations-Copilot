@@ -1,0 +1,16 @@
+TITLE: FIN_003_Expense_Reimbursement
+DEPT: Finance
+CATEGORY: Procedure
+
+
+    1. ELIGIBILITY
+    Business related expenses pre-approved by manager.
+    
+    2. LIMITS
+    - Meals: $50/day
+    - Travel: Economy class only for flights under 6 hours.
+    - Business class allowed for flights > 6 hours.
+    
+    3. PROCESS
+    Submit receipts within 30 days of expense.
+    

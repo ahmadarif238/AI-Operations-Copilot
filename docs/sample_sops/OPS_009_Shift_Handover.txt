@@ -1,0 +1,5 @@
+TITLE: OPS_009_Shift_Handover
+DEPT: Operations
+CATEGORY: SOP
+
+Handover must happen at 08:00 and 20:00.

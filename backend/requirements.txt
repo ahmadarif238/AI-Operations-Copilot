@@ -1,0 +1,38 @@
+fastapi>=0.109.0
+uvicorn[standard]
+sqlalchemy>=2.0.0
+alembic
+psycopg2-binary
+pydantic>=2.0.0
+pydantic-settings
+python-dotenv
+httpx
+requests
+
+# AI & Agents
+langgraph
+langchain
+langchain-groq
+langchain-openai
+langchain-community
+
+# Vector Stores
+pinecone
+weaviate-client
+chromadb
+
+# Utils
+python-multipart
+pyjwt
+passlib[bcrypt]
+email-validator
+rq
+redis
+
+# Testing
+pytest
+pytest-asyncio
+# For PDF parsing & generation
+pypdf
+fpdf
+sentence-transformers

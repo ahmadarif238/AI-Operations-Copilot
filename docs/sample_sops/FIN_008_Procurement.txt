@@ -1,0 +1,5 @@
+TITLE: FIN_008_Procurement
+DEPT: Finance
+CATEGORY: SOP
+
+Purchases > $1k need 3 quotes.

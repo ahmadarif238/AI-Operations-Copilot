@@ -1,0 +1,5 @@
+TITLE: HR_006_Remote_Work
+DEPT: HR
+CATEGORY: Policy
+
+Employees can work remotely 2 days a week.

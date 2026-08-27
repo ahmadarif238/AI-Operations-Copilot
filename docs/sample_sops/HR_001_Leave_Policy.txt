@@ -1,0 +1,20 @@
+TITLE: HR_001_Leave_Policy
+DEPT: Human Resources
+CATEGORY: Policy
+
+
+    1. PURPOSE
+    To define the guidelines for employee leave entitlements.
+    
+    2. SCOPE
+    All full-time employees.
+    
+    3. POLICY
+    - Annual Leave: 20 days per year.
+    - Sick Leave: 10 days per year with medical certificate required for >2 days.
+    - Maternity Leave: 12 weeks paid.
+    - Bereavement: 3 days for immediate family.
+    
+    4. PROCEDURE
+    Apply via the HR portal 2 weeks in advance for annual leave.
+    

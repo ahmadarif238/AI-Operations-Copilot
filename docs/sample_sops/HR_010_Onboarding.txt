@@ -1,0 +1,5 @@
+TITLE: HR_010_Onboarding
+DEPT: HR
+CATEGORY: Process
+
+Day 1: IT Setup. Day 2: HR Induction.

@@ -1,0 +1,5 @@
+TITLE: IT_007_Data_Retention
+DEPT: IT
+CATEGORY: Data
+
+Customer data kept for 7 years.

@@ -1,0 +1,13 @@
+TITLE: OPS_004_Incident_Reporting
+DEPT: Operations
+CATEGORY: SOP
+
+
+    1. TRIAGE
+    - P1: System Down (Response: 15 mins)
+    - P2: Feature Broken (Response: 1 hour)
+    - P3: Minor Bug (Response: 24 hours)
+    
+    2. REPORTING
+    Log all incidents in the AI Operations Copilot log endpoint.
+    
